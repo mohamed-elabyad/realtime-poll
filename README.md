@@ -39,8 +39,10 @@ composer install
 npm install && npm run dev
 
 ### Set up your .env file and run migrations:
-cp .env.example .env
-php artisan key:generate
+cp .env.example .env 
+&&
+php artisan key:generate 
+&&
 php artisan migrate
 
 ### Serve the application:
