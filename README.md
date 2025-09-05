@@ -69,6 +69,11 @@ Livewire 3
 Tailwind CSS (for styling)
 
 ---
+screenshots:
+![real time index](screenshots/realtimepoll.png)
+![real time error](screenshots/realtime_error.png)
+
+---
 
 ## Notes
 This is a practice project to explore how Livewire works with events, validation, and real-time UI updates.
